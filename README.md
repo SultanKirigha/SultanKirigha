@@ -22,5 +22,5 @@ Software Engineer with a focus on building scalable backend systems and fintech 
 (you can add stats later)
 
 ## 📫 Connect with Me
-- LinkedIn: (add this)
-- Email: (optional)
+- LinkedIn: [(add this)](https://www.linkedin.com/in/sultan-kirigha/)
+- Email: [(add this)](sultankirigha@gmail.com)
