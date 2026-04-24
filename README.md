@@ -18,8 +18,6 @@ Software Engineer with a focus on building scalable backend systems and fintech 
 - 🔹 Business Website Layout – Scalable frontend structure
 - 🔹 Netflix Clone – UI/UX replication project
 
-## 📈 GitHub Stats
-(you can add stats later)
 
 ## 📫 Connect with Me
 - LinkedIn: [(LinkedIn)](https://www.linkedin.com/in/sultan-kirigha/)
